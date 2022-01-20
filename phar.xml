@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="phar.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="phar.xsl" type="text/xsl"?>
+<Hospital>
+    <Receipt>
+        <id>1</id>
+        <patient_name>Ajay</patient_name>
+        <patient_age>21</patient_age>      
+        <Address>perambalur</Address>
+        <Date>12-3-19</Date>
+        <mobileno>9986544958</mobileno>
+        <Medicine_name>Dolo</Medicine_name>
+        <Quantity>5</Quantity>
+    </Receipt>
+    <Receipt>
+        <id>2</id>
+        <patient_name>Jenny</patient_name>
+        <patient_age>22</patient_age>      
+        <Address>Krishnagriri</Address>
+        <Date>16-3-16</Date>
+        <mobileno>9986588058</mobileno>
+        <Medicine_name>DART</Medicine_name>
+        <Quantity>3</Quantity>
+    </Receipt>
+    <Receipt>
+        <id>3</id>
+        <patient_name>Daniel</patient_name>
+        <patient_age>20</patient_age>      
+        <Address>Trichy</Address>
+        <Date>01-3-21</Date>
+        <mobileno>9986544123</mobileno>
+        <Medicine_name>No Cold</Medicine_name>
+        <Quantity>2</Quantity>
+    </Receipt>
+    <Receipt>
+        <id>4</id>
+        <patient_name>Stephen</patient_name>
+        <patient_age>16</patient_age>      
+        <Address>chennai</Address>
+        <Date>18-3-20</Date>
+        <mobileno>9986678958</mobileno>
+        <Medicine_name>Paracetemol</Medicine_name>
+        <Quantity>5</Quantity>
+    </Receipt>
+</Hospital>
